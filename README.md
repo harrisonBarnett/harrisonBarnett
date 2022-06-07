@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Harrison!
-- 🌱 I’m currently learning general web development, but especially javascript frameworks.
-- 💞️ I’m looking to collaborate on anything that my little mind can wrap around.
-- 📫 How to reach me:
-  - h.alexander.barnett@gmail.com  
+# howdy.
+
+### I am Harrison, a software developer.
+
+[I have a site.](sunbear.online)
 
 <!---
 harrisonBarnett/harrisonBarnett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
