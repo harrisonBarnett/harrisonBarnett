@@ -2,7 +2,7 @@
 
 ### I am Sunny, a software developer.
 
-[I have a site.](sunbear.online)
+[I have a site.](https://harrisonbarnett.github.io/cv_site/)
 
 <!---
 harrisonBarnett/harrisonBarnett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
