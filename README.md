@@ -1,6 +1,6 @@
 # howdy.
 
-### I am Harrison, a software developer.
+### I am Sunny, a software developer.
 
 [I have a site.](sunbear.online)
 
