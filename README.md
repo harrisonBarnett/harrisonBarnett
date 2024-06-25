@@ -1,6 +1,6 @@
 # howdy.
 
-### I am Sunny, a software developer.
+### I am Sunny, a software engineer.
 
 [I have a site.](https://harrisonbarnett.github.io/cv_site/)
 
